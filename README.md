@@ -1,3 +1,15 @@
+## <p align="center" > “Code is like humor. When you have to explain it, it’s bad” </p>
+
+<br>
+
+<p align="center">
+  <img alt="Header Image" src="https://raw.githubusercontent.com/Deepam02/Deepam02/main/top_image.png" />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230EF746&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Deepam+Goyal;I+am+a+Cyber+Security+enthusiast+)](https://git.io/typing-svg)
+
+
+
 # 💫 About Me:
 🎓 2nd-year B.Tech student in Computer Science<br>💻 Passionate about cybersecurity and web development<br>📚 Familiar with the fundamentals and eager to learn more<br>🛠️ Currently exploring projects to enhance skills in these areas
 
@@ -15,4 +27,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Deepam02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

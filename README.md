@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:
-🎓 2nd-year B.Tech student in Computer Science<br>💻 Passionate about cybersecurity and web development<br>📚 Familiar with the fundamentals and eager to learn more<br>🛠️ Currently exploring projects to enhance skills in these areas
+🎓 Final year B.Tech student in Computer Science<br>💻 Passionate about cybersecurity and web development<br>📚 Familiar with the fundamentals and eager to learn more<br>🛠️ Currently exploring projects to enhance skills in these areas
 
 
 ## 🌐 Socials:

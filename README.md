@@ -6,8 +6,8 @@ I primarily work with Go, JavaScript, and Java.
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#453](https://github.com/kubernetes-sigs/agent-sandbox/issues/453#issuecomment-4112751567) in [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
-2. ❌ Merged PR [#8901](undefined) in [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler)
+1. ❌ Merged PR [#3](undefined) in [Science-Prof-Robot/recursive-math-animator](https://github.com/Science-Prof-Robot/recursive-math-animator)
+2. 💪 Opened PR [#3](undefined) in [Science-Prof-Robot/recursive-math-animator](https://github.com/Science-Prof-Robot/recursive-math-animator)
 3. 💪 Opened PR [#4643](undefined) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
 <!--END_SECTION:activity-->
 

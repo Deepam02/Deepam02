@@ -6,9 +6,9 @@ I primarily work with Go, JavaScript, and Java.
 
 ### Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [Science-Prof-Robot/recursive-math-animator](https://github.com/Science-Prof-Robot/recursive-math-animator)
-2. 💪 Opened PR [#3](undefined) in [Science-Prof-Robot/recursive-math-animator](https://github.com/Science-Prof-Robot/recursive-math-animator)
-3. 💪 Opened PR [#4643](undefined) in [containerd/nerdctl](https://github.com/containerd/nerdctl)
+1. 🗣 Commented on [#953](https://github.com/clidey/whodb/issues/953#issuecomment-4366896278) in [clidey/whodb](https://github.com/clidey/whodb)
+2. 💪 Opened PR [#961](undefined) in [clidey/whodb](https://github.com/clidey/whodb)
+3. ❌ Merged PR [#3](undefined) in [Science-Prof-Robot/recursive-math-animator](https://github.com/Science-Prof-Robot/recursive-math-animator)
 <!--END_SECTION:activity-->
 
 📫 LinkedIn: https://linkedin.com/in/deepam-goyal  

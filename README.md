@@ -1,15 +1,20 @@
-## Hi, I’m Deepam
+## Deepam Goyal
 
-Backend-focused software engineer interested in backend systems, distributed services, and security-aware application design.
+I build AI agents and the infra they run on. Currently at Boring Workflows, architecting an
+autonomous revenue recovery agent for Indian D2C brands, full ownership from data pipelines
+to LangGraph orchestration to deployment.
 
-I primarily work with Go, JavaScript, and Java.
 
-### Recent activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1613](https://github.com/kyegomez/swarms/issues/1613#issuecomment-4449697490) in [kyegomez/swarms](https://github.com/kyegomez/swarms)
-2. 🗣 Commented on [#5368](https://github.com/google/osv.dev/issues/5368#issuecomment-4446938814) in [google/osv.dev](https://github.com/google/osv.dev)
-3. ❌ Merged PR [#961](undefined) in [clidey/whodb](https://github.com/clidey/whodb)
-<!--END_SECTION:activity-->
+**What I work on**
 
-📫 LinkedIn: https://linkedin.com/in/deepam-goyal  
-📧 Email: deepam02goyal@gmail.com
+Multi-agent systems, RAG pipelines, Kubernetes infra, and the connective tissue between
+them: webhooks, event-driven flows, observability, real deployments.
+
+**Open source**
+
+PRs merged into Cloudflare, Dify, Docker Agent, Kubernetes Autoscaler, vLLM/AIBrix, WhoDB.
+Mostly backend and infra fixes, some frontend. 
+
+---
+
+[deepam.dev](https://deepam.dev) · [LinkedIn](https://linkedin.com/in/deepam-goyal) · deepam02goyal@gmail.com
